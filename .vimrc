@@ -104,9 +104,7 @@ set t_Co=256
 syntax enable
 
 set nu
-set background=dark
-let g:seoul256_background = 233
-colorscheme seoul256
+colorscheme murphy
 
 " Set utf8 as standard encoding and en_US as the standard language
 set encoding=utf8
