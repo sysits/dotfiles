@@ -1,8 +1,3 @@
-# Vim plugins you'll need before we begin
-1. https://github.com/tpope/vim-pathogen
-1. https://github.com/scrooloose/nerdtree
-1. https://github.com/bling/vim-airline
-
 # Installation
 ```
 cd
