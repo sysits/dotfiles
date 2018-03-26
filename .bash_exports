@@ -18,5 +18,3 @@ export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
 
 export EDITOR=/usr/bin/vim
 
-#export AWS_ACCESS_KEY_ID="$(grep -A2 XXXX ~/.aws/credentials | grep "^aws_access_key_id" | awk '{print $3}')"
-#export AWS_SECRET_ACCESS_KEY="$(grep -A2 XXXX ~/.aws/credentials | grep "^aws_secret_access_key" | awk '{print $3}')"
